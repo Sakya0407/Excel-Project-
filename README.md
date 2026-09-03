@@ -1,8 +1,9 @@
+## Bike Buyers Analysis (Excel)
+
 Exploratory analysis of a customer dataset (1,000+ records) to understand 
 what demographic and lifestyle factors relate to bicycle purchases.
 
-**Contents**
-
+### Contents
 - **bike_buyers** — Raw dataset (ID, marital status, gender, income, 
   children, education, occupation, home ownership, cars, commute distance, 
   region, age, purchase outcome)
@@ -12,5 +13,5 @@ what demographic and lifestyle factors relate to bicycle purchases.
   purchase outcome)
 - **Dashboard** — Visual summary of key trends
 
-**Tools**
+### Tools
 Microsoft Excel (Pivot Tables, Charts, Slicers)
